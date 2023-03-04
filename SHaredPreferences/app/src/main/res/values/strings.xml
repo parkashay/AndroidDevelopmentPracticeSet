@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sharedPreferencesPractice</string>
+    <string name="mainText">A demo for using sharedPreferences in Android Studio. Enter something, hit button, the value will be stored.\n
+        Start the app again, the value is restored through sharedPreference.\n
+        To clear the stored value, go to settings of your device and clear all storage of the app.
+    </string>
+</resources>
